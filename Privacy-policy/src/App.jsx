@@ -35,7 +35,10 @@ export function PrivacyPolicyLP() {
         style={{ fontFamily: "Trap, sans-serif" }}
         className="flex justify-center"
       >
-        <section className=" mb-35 mt-30 flex flex-col px-4 ">
+        <section
+          // style={{ fontFamily: "Trap, sans-serif" }}
+          className=" mb-35 mt-30 flex flex-col px-4 "
+        >
           <div className="mb-10 w-full px-4 text-center">
             <label className="md:text-5xl text-4xl font-medium">
               Privacy Policy
